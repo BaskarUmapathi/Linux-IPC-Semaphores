@@ -1,7 +1,5 @@
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
-## Name : BASKAR.U
-## REGNO : 212223220013
 
 # AIM:
 To Write a C program that implements a producer-consumer system with two processes using Semaphores.
